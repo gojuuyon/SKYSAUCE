@@ -59,4 +59,4 @@ class Sauce:
         return str(time).split('e="')[1].split('"')[0]        
                 
                 
-print(getSauceHtml(399458,True).find_all('div','tag-container field-name')[8].find('time'))
+# print(getSauceHtml(399458,True).find_all('div','tag-container field-name')[8].find('time'))
