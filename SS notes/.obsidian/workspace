@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2.Areas/PARA.md",
-            "mode": "preview",
+            "file": "2.Areas/TODO.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Areas/PARA.md",
+                "file": "2.Areas/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "f3e72a08bc82b11d",
   "lastOpenFiles": [
+    "2.Areas/TODO.md",
+    "1.Projects/Webscraper.md",
     "2.Areas/PARA.md"
   ]
 }

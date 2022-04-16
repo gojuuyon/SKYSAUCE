@@ -1,0 +1,29 @@
+- [ ] Webscraper
+	- [x] get title
+	- [x] get author
+	- [x] get tags
+	- [x] get pages
+	- [x] get group
+	- [x] get parody
+	- [x] get language
+	- [x] get categori
+	- [x] get date
+	- [ ] get all image links
+- [ ] Table Setup
+	- [ ] make master indecies
+		- [ ] author index
+		- [ ] tag index
+		- [ ] group index
+	- [ ] make main table
+	- [ ] populate main table with info
+- [ ] Serilization
+	- [ ] use main table info to create list of numbers unique to each image (input)
+	- [ ] figure out the fuck to make all of the images use the same amount of numbers (example output)
+	- [ ] add to both to each row in the table
+- [ ] Gamer Time
+	- [ ] setup nodes in network
+	- [ ] train with main table
+	- [ ] mess with nodes to try and improve results
+	- [ ] do that again
+	- [ ] one more time
+	- [ ] once satisfied or bored with project yuh done

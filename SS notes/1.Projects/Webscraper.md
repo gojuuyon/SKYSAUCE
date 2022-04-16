@@ -1,0 +1,5 @@
+- Webscraper only needs to be able to get info from [sauce](https://nhentai.net)
+- uses [requests](https://pypi.org/project/requests/) and beautiful soup
+- get and parse html
+- probably better way to do it but that would require me to learn something else so na
+- images are only saved as links
