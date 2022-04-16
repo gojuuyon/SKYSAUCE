@@ -1,0 +1,12 @@
+- Projects
+	- Shit that is a task
+		- i.e. Webscraper
+- Areas
+	- Shit that is a series of tasks or an on going effort
+		- i.e. Project Organization Method (This)
+- Resources
+	- Docs kinda shit
+		- i.e. notes on how python functions
+- Archive
+	- Shit you done with
+		- completed projects

@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "c189ee0a0a50b819",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3e72a08bc82b11d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2.Areas/PARA.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "559d6371ca49a66f",
+    "type": "split",
+    "children": [
+      {
+        "id": "28cfeaf12cfc07d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7184e9481daaef75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "31d6738034ea2cf9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0419ab3f0b0801ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "9645bdc3d5f1f89f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd13346d72b1447a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2.Areas/PARA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f3e72a08bc82b11d",
+  "lastOpenFiles": [
+    "2.Areas/PARA.md"
+  ]
+}
