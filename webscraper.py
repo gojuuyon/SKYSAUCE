@@ -70,4 +70,3 @@ class Sauce:
                 
 print(getSauceHtml(399458,True).find_all('div','tag-container field-name')[2])
 gex = Sauce(399458)
-print(vars(gex))
