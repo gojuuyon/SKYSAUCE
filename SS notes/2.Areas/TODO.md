@@ -1,4 +1,4 @@
-- [ ] Webscraper
+- [x] Webscraper
 	- [x] get title
 	- [x] get author
 	- [x] get tags
@@ -8,8 +8,9 @@
 	- [x] get language
 	- [x] get categori
 	- [x] get date
-	- [ ] get all image links
+	- [x] get all image links
 - [ ] Table Setup
+	- [ ] setup mySQL on home PC
 	- [ ] make master indecies
 		- [ ] author index
 		- [ ] tag index
