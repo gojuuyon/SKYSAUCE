@@ -9,18 +9,21 @@
 	- [x] get categori
 	- [x] get date
 	- [x] get all image links
-- [ ] Table Setup
-	- [ ] setup mySQL on home PC
-	- [ ] make master indecies
-		- [ ] author index
-		- [ ] tag index
-		- [ ] group index
-	- [ ] make main table
-	- [ ] populate main table with info
+- [x] Table Setup
+	- [x] setup mySQL on home PC
+	- [x] make master indecies scrapper
+		- [x] artist index
+		- [x] tag index
+		- [x] group index
+		- [x] character
+		- [x] parody
 - [ ] Serilization
-	- [ ] use main table info to create list of numbers unique to each image (input)
+	- [x] implement image to numpy array conversion
+	- [ ] use main table info tte list of numbers unique o creato each image (input)
 	- [ ] figure out the fuck to make all of the images use the same amount of numbers (example output)
-	- [ ] add to both to each row in the table
+	- [ ] figure out how the fuck i am going to normalize image sizes
+	- [ ] create mass image scrapper using image serializer
+	- [ ] create saving method (SAVE ARRAYS NOT IMAGES)
 - [ ] Gamer Time
 	- [ ] setup nodes in network
 	- [ ] train with main table
