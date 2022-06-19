@@ -19,9 +19,10 @@
 		- [x] parody
 - [ ] Serilization
 	- [x] implement image to numpy array conversion
-	- [ ] use main table info tte list of numbers unique o creato each image (input)
-	- [ ] figure out the fuck to make all of the images use the same amount of numbers (example output)
-	- [ ] figure out how the fuck i am going to normalize image sizes
+	- [x] use main table info tte list of numbers unique to create each image (input)
+	- [x] figure out the fuck to make all of the images use the same amount of numbers (example output)
+	- [x] figure out how the fuck i am going to normalize image sizes
+	- [ ] create csv generator
 	- [ ] create mass image scrapper using image serializer
 	- [ ] create saving method (SAVE ARRAYS NOT IMAGES)
 - [ ] Gamer Time
